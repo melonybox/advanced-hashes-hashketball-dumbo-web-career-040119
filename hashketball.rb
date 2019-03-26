@@ -225,3 +225,7 @@ def big_shoe_rebounds
   end
   return raybands
 end
+
+!bang
+
+{ |x| stuff }
